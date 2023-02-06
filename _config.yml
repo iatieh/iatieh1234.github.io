@@ -200,7 +200,7 @@ markdown: kramdown
 kmarkdown:
   input: GFM
 
-plugins:
+#plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
